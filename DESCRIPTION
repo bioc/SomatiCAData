@@ -1,0 +1,13 @@
+Package: SomatiCAData
+Version: 0.99.2
+Title: An example cancer whole genome sequencing data for the SomatiCA
+        package
+Description: An example cancer whole genome sequencing data for the SomatiCA package
+Author: Mengjie Chen
+Maintainer: Mengjie Chen <mengjie.chen@yale.edu>
+Depends: R (>= 2.14)
+License: Artistic-2.0
+LazyData: yes
+biocViews: Sequencing, ExperimentData
+Packaged: 2013-01-26 22:28:52 UTC; mengjie
+InstallableEverywhere: yes
