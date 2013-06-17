@@ -8,10 +8,9 @@
 \usage{data(glio)}
 \format{
   A data frame with 3458745 rows on the following 7 variables.
-
   \describe{
     \item{\code{seqnames}}{a character vector}
-    \item{\code{start}}{an integer vector}
+    \item{\code{start}}{a character vector}
     \item{\code{zygosity}}{a character vector}
     \item{\code{tCount}}{an integer vector}
     \item{\code{LAF}}{a numeric vector}
