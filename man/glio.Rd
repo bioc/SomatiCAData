@@ -5,9 +5,10 @@
 \description{
  A dataset of a paired tumor-normal sequencing sample from Complete Genomics.
 }
-\usage{glio()}
+\usage{data(glio)}
 \format{
   A data frame with 3458745 rows on the following 7 variables.
+
   \describe{
     \item{\code{seqnames}}{a character vector}
     \item{\code{start}}{an integer vector}

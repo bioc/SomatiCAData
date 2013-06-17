@@ -1,5 +1,5 @@
 Package: SomatiCAData
-Version: 0.99.3
+Version: 1.1.0
 Title: An example cancer whole genome sequencing data for the SomatiCA
         package
 Description: An example cancer whole genome sequencing data for the SomatiCA package
@@ -9,5 +9,5 @@ Depends: R (>= 2.14)
 License: Artistic-2.0
 LazyData: yes
 biocViews: Sequencing, ExperimentData
-Packaged: 2013-01-26 22:28:52 UTC; mengjie
+Packaged: 2013-06-17 22:28:52 UTC; mengjie
 InstallableEverywhere: yes
