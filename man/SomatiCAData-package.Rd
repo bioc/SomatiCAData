@@ -18,5 +18,5 @@ Maintainer: Mengjie Chen <mengjie.chen@yale.edu>
 \keyword{ package }
 
 \examples{
-glio()
+data(glio)
 }
